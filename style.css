@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(240, 124, 124);
+}
+.container {
+    display: flex;
+    flex-direction: column;
+}
+.box1 {
+    
+    background-color: blue;
+    margin-top: .5rem;
+    text-align: center;
+    
+
+}
